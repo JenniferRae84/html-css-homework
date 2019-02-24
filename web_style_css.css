@@ -23,6 +23,12 @@ h3{
          font-weight: bold;
     }
 
+h4{
+    color: rgb(12, 173, 167);
+        background-color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+}
 
 p {
     color: slategray;
